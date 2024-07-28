@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">A passionate wanna-be backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun118&label=Profile%20views&color=0e75b6&style=flat" alt="arjun118" /> </p>
 
@@ -8,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@opp_en_heimer" target="blank"><img src="https://img.shields.io/twitter/follow/@opp_en_heimer?logo=twitter&style=for-the-badge" alt="@opp_en_heimer" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, Django, DSA**
+- 🌱 I’m currently learning **ML, System Design**
 
-- 💬 Ask me about **python, JavaScript**
+- 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **vishnutejach3@gmail.com**
 
